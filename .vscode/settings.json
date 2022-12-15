@@ -1,0 +1,6 @@
+{
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.tabs.description": "${cwd}${task}${separator}${local}${local}$",
+    "terminal.integrated.tabs.title": "${process}$",
+    "terminal.integrated.fontSize": 12
+}
